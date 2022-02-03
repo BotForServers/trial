@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
+	"ip":"Yashola248.aternos.me",
+	"port": "46222",
 	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
